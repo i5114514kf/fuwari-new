@@ -9,7 +9,7 @@ import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
 	title: "CPer's Blog",
-	subtitle: "test",
+	subtitle: "技术交流与分享",
 	lang: "zh_CN", // 语言代码，例如 'en', 'zh_CN', 'ja' 等
 	themeColor: {
 		hue: 250, // 主题色的默认色相，范围 0 到 360。例如 red: 0, teal: 200, cyan: 250, pink: 345

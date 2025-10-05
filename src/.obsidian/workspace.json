@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "9efca8621f1dc754",
+    "type": "split",
+    "children": [
+      {
+        "id": "63ccac97b0904f2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b5af8fa5e12cc32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/本博客的第一篇文章.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "本博客的第一篇文章"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "883e0a7611b3f795",
+    "type": "split",
+    "children": [
+      {
+        "id": "873200f4dde3ddac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a60ec3cbcc0f4c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2332d5cda8c36840",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "431aec3624c4ecf8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79f8d5744a0035bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "27efb7c4f0e901c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99b29ebc6a36113b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/本博客的第一篇文章.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "本博客的第一篇文章 的反向链接列表"
+            }
+          },
+          {
+            "id": "8ea6e2a110ccc9ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/本博客的第一篇文章.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "本博客的第一篇文章 的出链列表"
+            }
+          },
+          {
+            "id": "1e97747ed5e04f23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "56653beb72b661ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/本博客的第一篇文章.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "本博客的第一篇文章 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "2b5af8fa5e12cc32",
+  "lastOpenFiles": [
+    "Pasted image 20251005185806.png",
+    "Pasted image 20251005185424.png",
+    "content/posts/本博客的第一篇文章.md",
+    "content/posts/test.md"
+  ]
+}
