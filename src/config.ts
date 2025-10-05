@@ -29,12 +29,14 @@ export const siteConfig: SiteConfig = {
 		enable: true, // 在文章右侧显示目录
 		depth: 2, // 目录显示的最大标题深度，范围 1 到 3
 	},
-favicon: [    // Leave this array empty to use the default favicon
-     {
-       src: 'https://img.cdn1.vip/i/68e22ab22a84e_1759652530.webp',    // Path of the favicon, relative to the /public directory
-       //theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
-       sizes: '128x128',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
-     }	],
+	favicon: [
+		// Leave this array empty to use the default favicon
+		{
+			src: "https://img.cdn1.vip/i/68e22ab22a84e_1759652530.webp", // Path of the favicon, relative to the /public directory
+			//theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
+			sizes: "128x128", // (Optional) Size of the favicon, set only if you have favicons of different sizes
+		},
+	],
 };
 
 export const navBarConfig: NavBarConfig = {
@@ -43,8 +45,8 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		{
-			name: "GitHub",
-			url: "https://github.com/i5114514kf", // 内部链接不应包含基础路径，系统会自动添加
+			name: "导航页",
+			url: "https://www.510904.xyz", // 内部链接不应包含基础路径，系统会自动添加
 			external: true, // 显示外链图标并在新标签页打开
 		},
 	],
@@ -73,10 +75,15 @@ export const profileConfig: ProfileConfig = {
 			url: "https://github.com/i5114514kf",
 		},
 		{
-      name: 'Email',
-      icon: 'fa6-solid:envelope',
-      url: 'mailto:3550810388@qq.com',
-    },
+			name: "Email",
+			icon: "fa6-solid:envelope",
+			url: "mailto:3550810388@qq.com",
+		},
+		{
+			name: "BILIBILI",
+			icon: "fa6-brands:bilibili",
+			url: "https://space.bilibili.com/604160647",
+		},
 	],
 };
 
