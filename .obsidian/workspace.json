@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "9efca8621f1dc754",
+    "id": "ae96dedf5648f41c",
     "type": "split",
     "children": [
       {
-        "id": "63ccac97b0904f2b",
+        "id": "4170273cef226837",
         "type": "tabs",
         "children": [
           {
-            "id": "2b5af8fa5e12cc32",
+            "id": "0c9b3730b7e04416",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/test.md",
+                "file": "CONTRIBUTING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "CONTRIBUTING"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "883e0a7611b3f795",
+    "id": "13f0c45377f76a5e",
     "type": "split",
     "children": [
       {
-        "id": "873200f4dde3ddac",
+        "id": "3d5d7abff705533f",
         "type": "tabs",
         "children": [
           {
-            "id": "2a60ec3cbcc0f4c6",
+            "id": "2a806cd5143a1c29",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "2332d5cda8c36840",
+            "id": "381a9f5cd149b5c9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "431aec3624c4ecf8",
+            "id": "f5a7e6df0cda0b03",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "79f8d5744a0035bb",
+    "id": "b7ce32d17497cd10",
     "type": "split",
     "children": [
       {
-        "id": "27efb7c4f0e901c7",
+        "id": "aa15811eec496b07",
         "type": "tabs",
         "children": [
           {
-            "id": "99b29ebc6a36113b",
+            "id": "60c9205151bcab5f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/本博客的第一篇文章.md",
+                "file": "CONTRIBUTING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "本博客的第一篇文章 的反向链接列表"
+              "title": "CONTRIBUTING 的反向链接列表"
             }
           },
           {
-            "id": "8ea6e2a110ccc9ff",
+            "id": "645df9f31e227341",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/本博客的第一篇文章.md",
+                "file": "CONTRIBUTING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "本博客的第一篇文章 的出链列表"
+              "title": "CONTRIBUTING 的出链列表"
             }
           },
           {
-            "id": "1e97747ed5e04f23",
+            "id": "ec88f45d2e75ee8d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "56653beb72b661ec",
+            "id": "878ffc993d2ff32c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/本博客的第一篇文章.md",
+                "file": "CONTRIBUTING.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "本博客的第一篇文章 的大纲"
+              "title": "CONTRIBUTING 的大纲"
             }
           }
         ]
@@ -169,11 +169,16 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "2b5af8fa5e12cc32",
+  "active": "0c9b3730b7e04416",
   "lastOpenFiles": [
-    "Pasted image 20251005185806.png",
-    "Pasted image 20251005185424.png",
-    "content/posts/本博客的第一篇文章.md",
-    "content/posts/test.md"
+    "README.md",
+    "src/content/posts/test.md",
+    "src/content/posts/附件/4096x2160.png",
+    "src/content/posts/附件",
+    "src/content/posts/4096x2160.png",
+    "src/content/spec/about.md",
+    "src/content/posts/fiest.md",
+    "docs/README.zh-CN.md",
+    "CONTRIBUTING.md"
   ]
 }
